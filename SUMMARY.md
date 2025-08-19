@@ -30,8 +30,12 @@
         * [mkdir](docs/目录命令/mkdir.md)
         * [rmdir](docs/目录命令/rmdir.md)
         * [dirname](docs/目录命令/dirname.md)
+    * [文本命令](docs/文本命令.md)
+        * [grep](docs/文本命令/grep.md)
     * [系统命令](docs/系统命令.md)
         * [which](docs/系统命令/which.md)
         * [whereis](docs/系统命令/whereis.md)
         * [chown](docs/系统命令/chown.md)
+        * [chgrp](docs/系统命令/chgrp.md)
+        * [chmod](docs/系统命令/chmod.md)
 
