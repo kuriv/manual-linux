@@ -92,4 +92,8 @@
         * [telnet](docs/网络命令/telnet.md)
         * [ssh](docs/网络命令/ssh.md)
         * [ftp](docs/网络命令/ftp.md)
+        * [sftp](docs/网络命令/sftp.md)
+        * [lftp](docs/网络命令/lftp.md)
+        * [wget](docs/网络命令/wget.md)
+        * [scp](docs/网络命令/scp.md)
 
