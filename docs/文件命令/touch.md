@@ -42,7 +42,7 @@ touch file1.txt -r file2.txt
 touch -d "tomorrow" file.txt
 ```
 
-执行下面的命令，更新已有文件的访问时间戳和修改时间戳为任意时间。
+执行下面的命令，更新已有文件的访问时间戳和修改时间戳为指定时间。
 
 ```
 touch -t 2001010000.00 file.txt

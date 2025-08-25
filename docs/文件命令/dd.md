@@ -6,12 +6,6 @@
 dd if=/dev/zero of=file.txt bs=500M count=1
 ```
 
-执行下面的命令，拷贝指定文件的前指定字节。
-
-```
-dd if=file.txt of=newfile.txt bs=50 count=1
-```
-
 执行下面的命令，拷贝指定文件，并将所有字符转换为大写。
 
 ```

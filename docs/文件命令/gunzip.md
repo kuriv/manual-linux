@@ -9,7 +9,7 @@ gunzip -dv file.txt.gzip
 执行下面的命令，递归解压目录，注意原压缩包将被删除。
 
 ```
-gunzip -dr dir
+gunzip -dr dir.gzip
 ```
 
 执行下面的命令，测试指定的压缩包是否损坏。

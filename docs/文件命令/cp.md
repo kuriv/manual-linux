@@ -1,6 +1,6 @@
 # cp
 
-执行下面的命令，复制文件。
+执行下面的命令，复制指定文件。
 
 ```
 cp file.txt newfile.txt
@@ -24,13 +24,13 @@ cp -r file.txt newfile.txt
 cp -b file.txt newfile.txt
 ```
 
-执行下面的命令，复制目录。
+执行下面的命令，复制指定目录。
 
 ```
 cp -r dir newdir
 ```
 
-执行下面的命令，复制目录，并且保留源目录所有文件属性一致。
+执行下面的命令，复制指定目录，并且保留源目录所有文件属性一致。
 
 ```
 cp -a dir1 dir2
