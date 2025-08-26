@@ -27,6 +27,6 @@ head -c 10 ~/.bashrc
 执行下面的命令，显示指定文件除最后指定字符数的内容。
 
 ```
-head -n -20 ~/.bashrc
+head -c -20 ~/.bashrc
 ```
 

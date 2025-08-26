@@ -32,13 +32,13 @@ sudo ifconfig eth0 hw ether 00:AA:BB:CC:DD:EE
 sudo ifconfig eth0 up
 ```
 
-执行下面的命令，关闭指定网卡的 ARP 协议。
+执行下面的命令，开启指定网卡的 ARP 协议。
 
 ```
 sudo ifconfig eth0 arp
 ```
 
-执行下面的命令，开启指定网卡的 ARP 协议。
+执行下面的命令，关闭指定网卡的 ARP 协议。
 
 ```
 sudo ifconfig eth0 -arp

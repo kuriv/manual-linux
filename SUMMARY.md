@@ -36,8 +36,6 @@
         * [rmdir](docs/目录命令/rmdir.md)
         * [dirname](docs/目录命令/dirname.md)
     * [文本命令](docs/文本命令.md)
-        * [grep](docs/文本命令/grep.md)
-        * [egrep](docs/文本命令/egrep.md)
         * [cat](docs/文本命令/cat.md)
         * [tac](docs/文本命令/tac.md)
         * [more](docs/文本命令/more.md)
@@ -46,6 +44,8 @@
         * [tail](docs/文本命令/tail.md)
         * [nl](docs/文本命令/nl.md)
         * [wc](docs/文本命令/wc.md)
+        * [grep](docs/文本命令/grep.md)
+        * [egrep](docs/文本命令/egrep.md)
         * [split](docs/文本命令/split.md)
         * [cut](docs/文本命令/cut.md)
         * [paste](docs/文本命令/paste.md)
@@ -53,9 +53,7 @@
         * [uniq](docs/文本命令/uniq.md)
         * [diff](docs/文本命令/diff.md)
         * [join](docs/文本命令/join.md)
-        * [tr]
-        * [sed]
-        * [awk]
+        * [tr](docs/文本命令/tr.md)
     * [磁盘命令](docs/磁盘命令.md)
         * [du](docs/磁盘命令/du.md)
         * [df](docs/磁盘命令/df.md)
@@ -79,13 +77,21 @@
         * [iostat](docs/系统命令/iostat.md)
         * [ipcs](docs/系统命令/ipcs.md)
         * [ipcrm](docs/系统命令/ipcrm.md)
+        * [echo]
+        * [printf]
+        * [clear]
+        * [history]
+        * [login]
+        * [logout]
+        * [exit]
     * [网络命令](docs/网络命令.md)
-        * [route](docs/网络命令/route.md)
-        * [ping](docs/网络命令/ping.md)
-        * [traceroute](docs/网络命令/traceroute.md)
         * [ifconfig](docs/网络命令/ifconfig.md)
         * [ifup](docs/网络命令/ifup.md)
         * [ifdown](docs/网络命令/ifdown.md)
+        * [ping](docs/网络命令/ping.md)
+        * [host](docs/网络命令/host.md)
+        * [route](docs/网络命令/route.md)
+        * [traceroute](docs/网络命令/traceroute.md)
         * [netstat](docs/网络命令/netstat.md)
         * [ss](docs/网络命令/ss.md)
         * [telnet](docs/网络命令/telnet.md)
@@ -96,7 +102,6 @@
         * [wget](docs/网络命令/wget.md)
         * [scp](docs/网络命令/scp.md)
         * [curl](docs/网络命令/curl.md)
-        * [host](docs/网络命令/host.md)
         * [tcpdump](docs/网络命令/tcpdump.md)
         * [nc](docs/网络命令/nc.md)
     * [用户命令](docs/用户命令.md)
@@ -116,4 +121,19 @@
         * [w](docs/用户命令/w.md)
         * [last](docs/用户命令/last.md)
         * [users](docs/用户命令/users.md)
+    * [进程命令](docs/进程命令.md)
+        * [ps]
+        * [pstree]
+        * [pgrep]
+        * [lsof]
+        * [jobs]
+        * [bg]
+        * [fg]
+        * [kill]
+        * [killall]
+        * [nice]
+        * [renice]
+        * [nohup]
+    * [包管理器](docs/包管理器.md)
+        * [apt](docs/包管理器/apt.md)
 

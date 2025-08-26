@@ -9,7 +9,7 @@ route -n
 执行下面的命令，添加或设置路由。
 
 ```
-route add -net 224.0.0.0 netmask 224.0.0.0 dev ens33
+route add -net 224.0.0.0 netmask 224.0.0.0 dev eth0
 ```
 
 执行下面的命令，屏蔽指定路由。
