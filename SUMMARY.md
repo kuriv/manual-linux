@@ -60,6 +60,13 @@
         * [mount](docs/磁盘命令/mount.md)
         * [umount](docs/磁盘命令/umount.md)
     * [系统命令](docs/系统命令.md)
+        * [echo](docs/系统命令/echo.md)
+        * [printf](docs/系统命令/printf.md)
+        * [clear](docs/系统命令/clear.md)
+        * [history](docs/系统命令/history.md)
+        * [login](docs/系统命令/login.md)
+        * [logout](docs/系统命令/logout.md)
+        * [exit](docs/系统命令/exit.md)
         * [which](docs/系统命令/which.md)
         * [whereis](docs/系统命令/whereis.md)
         * [chown](docs/系统命令/chown.md)
@@ -71,19 +78,12 @@
         * [uptime](docs/系统命令/uptime.md)
         * [free](docs/系统命令/free.md)
         * [ulimit](docs/系统命令/ulimit.md)
-        * [init](docs/系统命令/init.md)
-        * [service](docs/系统命令/service.md)
         * [vmstat](docs/系统命令/vmstat.md)
         * [iostat](docs/系统命令/iostat.md)
         * [ipcs](docs/系统命令/ipcs.md)
         * [ipcrm](docs/系统命令/ipcrm.md)
-        * [echo]
-        * [printf]
-        * [clear]
-        * [history]
-        * [login]
-        * [logout]
-        * [exit]
+        * [service](docs/系统命令/service.md)
+        * [init](docs/系统命令/init.md)
     * [网络命令](docs/网络命令.md)
         * [ifconfig](docs/网络命令/ifconfig.md)
         * [ifup](docs/网络命令/ifup.md)
@@ -105,35 +105,35 @@
         * [tcpdump](docs/网络命令/tcpdump.md)
         * [nc](docs/网络命令/nc.md)
     * [用户命令](docs/用户命令.md)
+        * [id](docs/用户命令/id.md)
         * [useradd](docs/用户命令/useradd.md)
         * [adduser](docs/用户命令/adduser.md)
         * [passwd](docs/用户命令/passwd.md)
+        * [usermod](docs/用户命令/usermod.md)
         * [userdel](docs/用户命令/userdel.md)
         * [su](docs/用户命令/su.md)
         * [sudo](docs/用户命令/sudo.md)
-        * [id](docs/用户命令/id.md)
-        * [usermod](docs/用户命令/usermod.md)
         * [groups](docs/用户命令/groups.md)
         * [groupadd](docs/用户命令/groupadd.md)
         * [groupdel](docs/用户命令/groupdel.md)
         * [whoami](docs/用户命令/whoami.md)
         * [who](docs/用户命令/who.md)
         * [w](docs/用户命令/w.md)
-        * [last](docs/用户命令/last.md)
         * [users](docs/用户命令/users.md)
+        * [last](docs/用户命令/last.md)
     * [进程命令](docs/进程命令.md)
-        * [ps]
-        * [pstree]
-        * [pgrep]
-        * [lsof]
-        * [jobs]
-        * [bg]
-        * [fg]
-        * [kill]
-        * [killall]
-        * [nice]
-        * [renice]
-        * [nohup]
+        * [top](docs/进程命令/top.md)
+        * [ps](docs/进程命令/ps.md)
+        * [pstree](docs/进程命令/pstree.md)
+        * [pgrep](docs/进程命令/pgrep.md)
+        * [lsof](docs/进程命令/lsof.md)
+        * [jobs](docs/进程命令/jobs.md)
+        * [bg](docs/进程命令/bg.md)
+        * [fg](docs/进程命令/fg.md)
+        * [kill](docs/进程命令/kill.md)
+        * [killall](docs/进程命令/killall.md)
+        * [nice](docs/进程命令/nice.md)
+        * [renice](docs/进程命令/renice.md)
     * [包管理器](docs/包管理器.md)
         * [apt](docs/包管理器/apt.md)
 
