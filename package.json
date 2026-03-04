@@ -1,10 +1,11 @@
 {
   "name": "manual-linux",
-  "version": "1.0.1",
-  "description": "Linux 手册",
+  "version": "1.0.2",
+  "description": "Linux 是一种自由和开放源码的类 Unix 操作系统。",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook serve ./ ./book"
   },
   "repository": {
     "type": "git",
